@@ -6,11 +6,10 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  color: orange;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 100%;
+  background-image: linear-gradient(white, aqua);
 }
 
 .wrapper {
@@ -25,24 +24,25 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: "Times New Roman", Times, serif;
+  color: plum;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 5em;
   margin-bottom: 0;
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 1em;
   margin-top: .5em;
 }
 
 h3 {
   font-family: 'Gabriela', serif;
-  font-size: 1.5em;
+  font-size: 1em;
   margin-top: .5em;
+  color: green;
 }
 
 img {
